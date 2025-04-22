@@ -23,7 +23,10 @@ These functions enable extended integration capabilities in Cloud Studio, suppor
 
 - [Gear Studio Documentation – Data Processing](https://wiki.cloud.studio/es/page/200)
 - [Cloud Studio Official Website](https://www.cloud.studio/)
+<<<<<<< HEAD
 - [@DarkSylver](https://github.com/DarkSylver)
+=======
+>>>>>>> 13650882b3a3d570ff285bf0a80f3d835f4ca102
 
 ---
 
@@ -51,4 +54,7 @@ Estas funciones permiten capacidades de integración extendidas en Cloud Studio,
 
 - [Documentación de Gear Studio – Procesamiento de Datos](https://wiki.cloud.studio/es/page/200)
 - [Sitio Oficial de Cloud Studio](https://www.cloud.studio/)
+<<<<<<< HEAD
 - [@DarkSylver](https://github.com/DarkSylver)
+=======
+>>>>>>> 13650882b3a3d570ff285bf0a80f3d835f4ca102
